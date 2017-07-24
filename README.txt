@@ -1,0 +1,1 @@
+this application is used to update the songs/talks in my mini mp3 walkman from the USB disk that keeps those files.

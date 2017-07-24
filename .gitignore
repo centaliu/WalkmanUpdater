@@ -1,0 +1,8 @@
+*.suo
+*.exe
+*.pdb
+*.config
+*.manifest
+*.cache
+WalkmanUpdater/bin/
+WalkmanUpdater/obj/
